@@ -1,7 +1,7 @@
 Display
 =============
 
-A support for Java Graphics2D
+A PCD8544 (nokia 3110/5110) support for Java Graphics2D
 
 It's possible:
 
